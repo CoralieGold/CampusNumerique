@@ -9,11 +9,140 @@
 	<!-- STYLES -->
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+	<link rel="stylesheet" href="style/font-awesome/css/font-awesome.min.css">
 	<!-- Custom -->
 	<link rel="stylesheet" href="style/css/main.css">
 </head>
 <body>
-	<h1>Campus Numérique et Innovation Pédagogique</h1>
+	<div class="container-fluid">
+		<!-- HEADER -->
+		<header class="row">
+			<div class="row">
+				<form class="form-inline col-12">
+					<div class="form-group mb-2 col-sm-9 col-xs-12">
+						<a href="index.html" class="row">
+							<div class="col-md-2 col-sm-6 col-xs-12"><img src="img/UPEM_LOGO.png" class="d-inline-block align-top img-fluid" alt=""></div>
+							<h1 class="col-md-10 col-sm-6 col-xs-12">Campus Numérique et Innovation Pédagogique</h1>
+						</a>
+					</div>
+					<div class="form-group mb-2 col-sm-3 col-xs-12 row" id="search-bar">
+						<input class="form-control mb-2 col-9" type="search" placeholder="Search" aria-label="Search">
+						<button type="submit" class="btn btn-primary mb-2 col-3">
+			                <i class="fa fa-search" aria-hidden="true"></i>
+			            </button>
+			         </div>
+				</form>
+			</div>
+			<div class="row justify-content-md-center col-12">
+				<nav class="navbar navbar-expand-lg navbar-light bg-light">
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+
+					<div class="collapse navbar-collapse" id="navbarSupportedContent">
+						<ul class="navbar-nav mr-auto">
+							<li class="nav-item active">
+								<a class="nav-link" href="index.html">Accueil</a>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="organisation.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+									Organisation
+								</a>
+								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<a class="dropdown-item" href="pole_ip.html">Cellule Innovation Pédagogique de la VPEP</a>
+									<a class="dropdown-item" href="pole_tic.html">Pôle TIC du Campus Numérique</a>
+									<a class="dropdown-item" href="pole_audiovisuel.html">Pôle Audiovisuel du Campus Numérique</a>
+								</div>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="outils_formations.html">Outils & Formations</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="agenda_breves.html">Agenda & Brèves</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="assistance.html">Assistance</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="projets.html">Projets</a>
+							</li>
+						</ul>
+					</div>
+				</nav>
+			</div>
+		</header>
+
+		<!-- CONTENT -->
+		<main class="row">
+			<!--<div class="row" id="cnVideo">
+				<h1 class="col-xs-12">Campus Numérique et Innovation Pédagogique</h1>
+			</div>
+			<div class="row" id="cnDescription">
+				<h2 class="col-xs-12">Qu'est-ce que le Campus Numérique ?</h2>
+				<p class="col-xs-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+				<p class="col-xs-6">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+			</div>
+			<div id="cdNews">
+				<h2 class="col-xs-12 row">Actualités</h2>
+				<div class="row">
+					<div class="card col-md-3">
+						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+						<div class="card-body">
+							<h4 class="card-title">Card title</h4>
+							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							<a href="#" class="btn btn-primary">Go somewhere</a>
+						</div>
+					</div>
+					<div class="card col-md-3">
+						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+						<div class="card-body">
+							<h4 class="card-title">Card title</h4>
+							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							<a href="#" class="btn btn-primary">Go somewhere</a>
+						</div>
+					</div>
+					<div class="card col-md-3">
+						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+						<div class="card-body">
+							<h4 class="card-title">Card title</h4>
+							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							<a href="#" class="btn btn-primary">Go somewhere</a>
+						</div>
+					</div>
+					<div class="card col-md-3">
+						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+						<div class="card-body">
+							<h4 class="card-title">Card title</h4>
+							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+							<a href="#" class="btn btn-primary">Go somewhere</a>
+						</div>
+					</div>
+				</div>
+				
+			</div>
+		-->
+			
+		</main>
+
+
+		<!-- FOOTER -->
+		<footer class="row">
+			
+
+		</footer>
+	</div>
+	
 
 	<!-- SCRIPTS -->
 	<!-- jQuery & Bootstrap -->
