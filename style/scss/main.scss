@@ -6,9 +6,9 @@
 html {
 	font-size: 1rem;
 }
-h1 {font-size: 2rem;}
-h2 {font-size: 1.8rem;}
-h3 {font-size: 1.6rem;}
+h1 {font-size: 2rem; text-align: center;}
+h2 {font-size: 1.8rem; text-align: center;}
+h3 {font-size: 1.6rem; text-align: center;}
 h4 {font-size: 1.4rem;}
 h5 {font-size: 1.2rem;}
 
@@ -24,4 +24,53 @@ h5 {font-size: 1.2rem;}
 @media (min-width: 1200px) {
 }
 
+.container-fluid, .row {
+	padding: 0;
+	margin: 0;
+}
+
+section {
+	padding: 45px 0;
+
+	h1 {
+		margin-bottom: 45px;
+	}
+
+	&.colorSection {
+		background-color: $color;
+		h1, h2, h3, h4, h5, p, a, li {
+			color: $dark;
+		}
+	}
+
+	&.darkSection {
+		background-color: $color_dark;
+		h1, h2, h3, h4, h5 , p, a, li {
+			color: $light;
+		}
+	}
+
+	&.lightSection {
+		background-color: $color_light;
+		h1, h2, h3, h4, h5, p, a, li {
+			color: $dark;
+		}
+	}
+
+	&.presentationText {
+		text-align: justify;
+	}
+}
+
+.center-element {
+	text-align: center;
+}
+
+.card {
+	h1, h2, h3, h4, h5 , p, a, li {
+		color: $dark !important;
+	}
+}
+
 @import 'index.scss';
+@import 'organisation.scss';
