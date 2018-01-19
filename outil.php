@@ -34,7 +34,7 @@
 			</div>
 		</div>
 		<div class="row justify-content-md-center">
-			<a class="btn btn-dark" href="formations.php">Voir tous les outis</a>
+			<a class="btn btn-dark" href="outils_formations.php">Voir tous les outis</a>
 		</div>
 	</section>
 </main>
