@@ -10,6 +10,7 @@
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 	<link rel="stylesheet" href="style/font-awesome/css/font-awesome.min.css">
+
 	<!-- Custom -->
 	<link rel="stylesheet" href="style/css/main.css">
 </head>
@@ -20,7 +21,7 @@
 			<div class="row">
 				<form class="form-inline col-12">
 					<div class="form-group mb-2 col-sm-9 col-xs-12">
-						<a href="index.html" class="row">
+						<a href="index.php" class="row">
 							<div class="col-md-2 col-sm-6 col-xs-12"><img src="img/UPEM_LOGO.png" class="d-inline-block align-top img-fluid" alt=""></div>
 							<h1 class="col-md-10 col-sm-6 col-xs-12">Campus Numérique et Innovation Pédagogique</h1>
 						</a>
@@ -42,30 +43,30 @@
 					<div class="collapse navbar-collapse" id="navbarSupportedContent">
 						<ul class="navbar-nav mr-auto">
 							<li class="nav-item active">
-								<a class="nav-link" href="index.html">Accueil</a>
+								<a class="nav-link" href="index.php">Accueil</a>
 							</li>
 							<li class="nav-item dropdown">
-								<a class="nav-link dropdown-toggle" href="organisation.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+								<a class="nav-link dropdown-toggle" href="organisation.php" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 									Organisation
 								</a>
 								<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-									<a class="dropdown-item" href="organisation.html">L'Organisation du Campus Numérique</a>
-									<a class="dropdown-item" href="pole.html">Cellule Innovation Pédagogique de la VPEP</a>
-									<a class="dropdown-item" href="pole.html">Pôle TIC du Campus Numérique</a>
-									<a class="dropdown-item" href="pole.html">Pôle Audiovisuel du Campus Numérique</a>
+									<a class="dropdown-item" href="organisation.php">L'Organisation du Campus Numérique</a>
+									<a class="dropdown-item" href="pole.php">Cellule Innovation Pédagogique de la VPEP</a>
+									<a class="dropdown-item" href="pole.php">Pôle TIC du Campus Numérique</a>
+									<a class="dropdown-item" href="pole.php">Pôle Audiovisuel du Campus Numérique</a>
 								</div>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="outils_formations.html">Outils & Formations</a>
+								<a class="nav-link" href="outils_formations.php">Outils & Formations</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="agenda_breves.html">Agenda & Brèves</a>
+								<a class="nav-link" href="agenda_breves.php">Agenda & Brèves</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="assistance.html">Assistance</a>
+								<a class="nav-link" href="assistance.php">Assistance</a>
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" href="projets.html">Projets</a>
+								<a class="nav-link" href="projets.php">Projets</a>
 							</li>
 						</ul>
 					</div>

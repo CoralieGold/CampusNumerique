@@ -5,19 +5,19 @@
 			<section class="colorSection col-12">
 				<div class="row justify-content-around">
 					<div class="col-3 center-element">
-						<a href="pole.html">
+						<a href="pole.php">
 							<img class="rounded-circle" src="http://dooreight.com/codepen/people/img_02.png" alt="Generic placeholder image">
 							<p>Cellule Innovation Pédagogique de la VPEP</p>
 						</a>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-3 center-element">
-						<a href="pole.html">
+						<a href="pole.php">
 							<img class="rounded-circle" src="http://dooreight.com/codepen/people/img_02.png" alt="Generic placeholder image">
 							<p>Pôle Audiovisuel du Campus Numérique</p>
 						</a>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-3 center-element">
-						<a href="pole.html">
+						<a href="pole.php">
 							<img class="rounded-circle" src="http://dooreight.com/codepen/people/img_02.png" alt="Generic placeholder image">
 							<p>Pôle TIC du Campus Numérique</p>
 						</a>

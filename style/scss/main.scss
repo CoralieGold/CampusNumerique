@@ -1,7 +1,10 @@
-@import 'utils.scss';
-@import 'header.scss';
-@import 'footer.scss';
-
+$dark: #000;
+$light: #fff;
+$color: #1FBADE;
+$color_dark: #BD3406;
+$color_darker: #AC2305;
+$color_light: #EF9220;
+$color_lighter: #F0A331;
 
 html {
 	font-size: 1rem;
@@ -29,6 +32,10 @@ h5 {font-size: 1.2rem;}
 	margin: 0;
 }
 
+p {
+	text-align: justify;
+}
+
 section {
 	padding: 45px 0;
 
@@ -38,21 +45,21 @@ section {
 
 	&.colorSection {
 		background-color: $color;
-		h1, h2, h3, h4, h5, p, a, li {
+		h1, h2, h3, h4, h5, p, a:not(.btn), li {
 			color: $dark;
 		}
 	}
 
 	&.darkSection {
 		background-color: $color_dark;
-		h1, h2, h3, h4, h5 , p, a, li {
+		h1, h2, h3, h4, h5 , p, a:not(.btn), li {
 			color: $light;
 		}
 	}
 
 	&.lightSection {
 		background-color: $color_light;
-		h1, h2, h3, h4, h5, p, a, li {
+		h1, h2, h3, h4, h5, p, a:not(.btn), li {
 			color: $dark;
 		}
 	}
@@ -66,11 +73,32 @@ section {
 	text-align: center;
 }
 
+
 .card {
+	margin-bottom: 30px !important;
+
 	h1, h2, h3, h4, h5 , p, a, li {
 		color: $dark !important;
 	}
 }
 
+a.card {
+	border: $light 2px solid;
+	&:hover, &:focus {
+		text-decoration: none;
+		border-color: $color;
+	}
+}
+
+.background-fa-color {
+	background-color: $color;
+	color: $light;
+	text-align: center;
+	padding: 10px;
+}
+
+@import 'header.scss';
+@import 'footer.scss';
 @import 'index.scss';
-@import 'organisation.scss';
+@import 'simpleList.scss';
+@import 'timeline.scss';
