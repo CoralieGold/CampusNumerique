@@ -2,29 +2,29 @@
 
 		<!-- CONTENT -->
 		<main class="row justify-content-md-center">
-			<section class="colorSection col-12">
+			<section class="darkSection col-12">
 				<div class="row justify-content-around">
 					<div class="col-3 center-element">
 						<a href="pole.php">
-							<img class="rounded-circle" src="http://dooreight.com/codepen/people/img_02.png" alt="Generic placeholder image">
-							<p>Cellule Innovation Pédagogique de la VPEP</p>
+							<img class="rounded-circle" src="http://fakeimg.pl/100x100/" alt="Generic placeholder image">
+							<h2>Cellule Innovation Pédagogique de la VPEP</h2>
 						</a>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-3 center-element">
 						<a href="pole.php">
-							<img class="rounded-circle" src="http://dooreight.com/codepen/people/img_02.png" alt="Generic placeholder image">
-							<p>Pôle Audiovisuel du Campus Numérique</p>
+							<img class="rounded-circle" src="http://fakeimg.pl/100x100/" alt="Generic placeholder image">
+							<h2>Pôle Audiovisuel du Campus Numérique</h2>
 						</a>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-3 center-element">
 						<a href="pole.php">
-							<img class="rounded-circle" src="http://dooreight.com/codepen/people/img_02.png" alt="Generic placeholder image">
-							<p>Pôle TIC du Campus Numérique</p>
+							<img class="rounded-circle" src="http://fakeimg.pl/100x100/" alt="Generic placeholder image">
+							<h2>Pôle TIC du Campus Numérique</h2>
 						</a>
 					</div><!-- /.col-lg-4 -->
 				</div><!-- /.row -->
 			</section>
-			<section class="darkSection col-12 presentationText">
+			<section class="whiteSection col-12 presentationText">
 				<div class="row justify-content-md-center">
 					<div class="col-10">
 						<h1>Organisation du Campus Numérique</h1>
@@ -47,12 +47,12 @@
 				</div>
 				
 			</section>
-			<section class="lightSection col-12">
+			<section class="darkSection col-12">
 				<div class="container-fluid">
 					<h2>L'équipe de direction</h2>	    		    		
 					<ul class="hover-description row justify-content-md-center">
 						<li class="transition col-xs-12 col-md-3">
-							<div class="wrapper"> <img class="transition" src="http://dooreight.com/codepen/people/img_02.png">
+							<div class="wrapper"> <img class="transition rounded-circle" src="http://fakeimg.pl/100x100/">
 								<ul class="social">
 									<li class="transition">Rôle dans le Campus Numérique</li>
 									<li class="transition"><i class="fa fa-phone" aria-hidden="true"></i> 01 23 45 67 89</li>
@@ -60,14 +60,14 @@
 								</ul>
 								<span class="transition">
 									<h3>Prénom Nom <em>Direction</em></h3>
-									<img class="mamber-img" src="http://dooreight.com/codepen/people/img_01.png">
+									<img class="mamber-img rounded-circle" src="http://fakeimg.pl/100x100/">
 									<h3>Prénom Nom</h3>
 									<i class="fa fa-angle-double-down fa-2x" aria-hidden="true"></i>
 								</span>
 							</div>
 						</li>
 						<li class="transition col-xs-12 col-md-3">
-							<div class="wrapper"> <img class="transition" src="http://dooreight.com/codepen/people/img_02.png">
+							<div class="wrapper"> <img class="transition rounded-circle" src="http://fakeimg.pl/100x100/">
 								<ul class="social">
 									<li class="transition">Rôle dans le Campus Numérique</li>
 									<li class="transition"><i class="fa fa-phone" aria-hidden="true"></i> 01 23 45 67 89</li>
@@ -75,14 +75,14 @@
 								</ul>
 								<span class="transition">
 									<h3>Prénom Nom <em>Direction</em></h3>
-									<img class="mamber-img" src="http://dooreight.com/codepen/people/img_01.png">
+									<img class="mamber-img rounded-circle" src="http://fakeimg.pl/100x100/">
 									<h3>Prénom Nom</h3>
 									<i class="fa fa-angle-double-down fa-2x" aria-hidden="true"></i>
 								</span>
 							</div>
 						</li>
 						<li class="transition col-xs-12 col-md-3">
-							<div class="wrapper"> <img class="transition" src="http://dooreight.com/codepen/people/img_02.png">
+							<div class="wrapper"> <img class="transition rounded-circle" src="http://fakeimg.pl/100x100/">
 								<ul class="social">
 									<li class="transition">Rôle dans le Campus Numérique</li>
 									<li class="transition"><i class="fa fa-phone" aria-hidden="true"></i> 01 23 45 67 89</li>
@@ -90,7 +90,7 @@
 								</ul>
 								<span class="transition">
 									<h3>Prénom Nom <em>Direction</em></h3>
-									<img class="mamber-img" src="http://dooreight.com/codepen/people/img_01.png">
+									<img class="mamber-img rounded-circle" src="http://fakeimg.pl/100x100/">
 									<h3>Prénom Nom</h3>
 									<i class="fa fa-angle-double-down fa-2x" aria-hidden="true"></i>
 								</span>

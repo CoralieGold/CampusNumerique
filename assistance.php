@@ -2,7 +2,7 @@
 
 <!-- CONTENT -->
 <main class="row">
-	<section class="lightSection col-12 container">
+	<section class="darkSection col-12 container">
 		<h1 class="col-12 center-elements">Assistance</h1>
 		<div class="row justify-content-md-center">
 			<div class="btn-group" role="group" aria-label="FilterListButtons">

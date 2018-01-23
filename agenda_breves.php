@@ -90,7 +90,7 @@
 		</div>
 	</section>
 
-	<section class="lightSection col-12 container">
+	<section class="whiteSection col-12 container">
 		<h1 class="col-12 center-elements">Brèves</h1>
 	</section>
 </main>
