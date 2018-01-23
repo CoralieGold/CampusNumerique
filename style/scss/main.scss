@@ -1,10 +1,23 @@
-$dark: #000;
-$light: #fff;
-$color: #1FBADE;
-$color_dark: #BD3406;
-$color_darker: #AC2305;
-$color_light: #EF9220;
-$color_lighter: #F0A331;
+$dark: #212121;
+$light: #f8f9fa;
+
+$color: #FF3300;
+$color_second: #EA5A0B;
+
+$color_light: #66CCCC;
+$color_lighter: #0087AB;
+
+$color_dark: #92B3C6;
+$color_darker: #167E8A;
+
+@font-face {
+ font-family: "Colab";
+ src: url("../fonts/ColabReg.otf");
+}
+
+*:not(i) {
+	font-family: "Colab", sans-serif !important;
+}
 
 html {
 	font-size: 1rem;
@@ -43,22 +56,22 @@ section {
 		margin-bottom: 45px;
 	}
 
-	&.colorSection {
-		background-color: $color;
+	&.whiteSection {
+		background-color: $light;
 		h1, h2, h3, h4, h5, p, a:not(.btn), li {
 			color: $dark;
 		}
 	}
 
 	&.darkSection {
-		background-color: $color_dark;
+		background: linear-gradient($color_darker, $color-dark);
 		h1, h2, h3, h4, h5 , p, a:not(.btn), li {
 			color: $light;
 		}
 	}
 
 	&.lightSection {
-		background-color: $color_light;
+		background: linear-gradient($color_lighter, $color-light);
 		h1, h2, h3, h4, h5, p, a:not(.btn), li {
 			color: $dark;
 		}
@@ -102,3 +115,4 @@ a.card {
 @import 'index.scss';
 @import 'simpleList.scss';
 @import 'timeline.scss';
+@import 'news.scss';
