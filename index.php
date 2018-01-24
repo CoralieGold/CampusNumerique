@@ -48,7 +48,7 @@
 			</div>
 		</div>
 		<div class="row justify-content-center">
-			<a class="btn btn-primary col-auto" href="organisation.html">Découvrez nos équipes</a>
+			<a class="btn btn-custom col-auto" href="organisation.html">Découvrez nos équipes</a>
 		</div>
 	</section>
 	<section class="col-12 darkSection" id="news">
@@ -58,14 +58,14 @@
 				<div class="card bg-dark text-white mainCard">
 					<img class="card-img" src="http://fakeimg.pl/400x150/" alt="Card image">
 					<div class="card-img-overlay">
+						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 							consequat.
 						</p>
-						<p class="blockquote-footer">01/01/2000</p>
-						<a href="actualite.php" class="btn btn-primary">En savoir plus</a>
+						<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
 					</div>
 				</div>
 			</div>
@@ -73,77 +73,31 @@
 				<div class="card bg-dark text-white secondCard">
 					<img class="card-img" src="http://fakeimg.pl/400x150/" alt="Card image">
 					<div class="card-img-overlay">
+						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 							consequat.
 						</p>
-						<p class="blockquote-footer">01/01/2000</p>
-						<a href="actualite.php" class="btn btn-primary">En savoir plus</a>
+						<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
 					</div>
 				</div>
 				<div class="card bg-dark text-white secondCard">
 					<img class="card-img" src="http://fakeimg.pl/400x150/" alt="Card image">
 					<div class="card-img-overlay">
+						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 							consequat.
 						</p>
-						<p class="blockquote-footer">01/01/2000</p>
-						<a href="actualite.php" class="btn btn-primary">En savoir plus</a>
+						<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
 					</div>
 				</div>
 			</div>
 		</div>
-<!-- 		<div class="newspaper-x-header-widget-area">
-			<div id="newspaper_x_header_module-2" class="widget newspaper_x_widgets">    <div class="newspaper-x-recent-posts container">
-				<ul>
-					<li class="blazy b-loaded" id="newspaper-x-recent-post-0" style="background-image: url(&quot;https://colorlib.com/newspaper-x/wp-content/uploads/sites/15/2017/05/00_header_slider_01-550x360.jpg&quot;);">
-						<div class="newspaper-x-post-info">
-							<h1>
-								<a href="https://colorlib.com/newspaper-x/2017/05/10/sed-purus-velit-finibus-non-semper-nonut-utas/">
-									Sed purus velit, finibus non semper…
-								</a>
-							</h1>
-							<span class="newspaper-x-category">
-								<a href="https://colorlib.com/newspaper-x/category/editorial/">Editorial</a>
-							</span>
-							<span class="newspaper-x-date">May 10, 2017</span>
-						</div>
-					</li>
-					<li class="blazy b-loaded" id="newspaper-x-recent-post-1" style="background-image: url(&quot;https://colorlib.com/newspaper-x/wp-content/uploads/sites/15/2017/05/00_header_slider_02-550x360.jpg&quot;);">
-						<div class="newspaper-x-post-info">
-							<h6>
-								<a href="https://colorlib.com/newspaper-x/2017/05/10/nunc-hendrerit-egestas-amus-ad-arcu-im-usa/">
-									Nunc hendrerit egestas amus ad arcu…
-								</a>
-							</h6>
-							<span class="newspaper-x-category">
-								<a href="https://colorlib.com/newspaper-x/category/editorial/">Editorial</a>
-							</span>
-							<span class="newspaper-x-date">May 10, 2017</span>
-						</div>
-					</li>
-					<li class="blazy b-loaded" id="newspaper-x-recent-post-2" style="background-image: url(&quot;https://colorlib.com/newspaper-x/wp-content/uploads/sites/15/2017/05/00_header_slider_03-550x360.jpg&quot;);">
-						<div class="newspaper-x-post-info">
-							<h6>
-								<a href="https://colorlib.com/newspaper-x/2017/05/10/itum-binus-sitam-conestum-ey/">
-									Itum as binus sitam conestum ey
-								</a>
-							</h6>
-							<span class="newspaper-x-category">
-								<a href="https://colorlib.com/newspaper-x/category/editorial/">Editorial</a>
-							</span>
-							<span class="newspaper-x-date">May 10, 2017</span>
-						</div>
-					</li>
-				</ul>
-			</div>
-
-		</div> -->
 	</div>
 </section>			
 </main>

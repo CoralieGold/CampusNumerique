@@ -6,11 +6,11 @@
 		<h1 class="col-12 center-elements">Outils</h1>
 		<div class="row justify-content-md-center">
 			<div class="btn-group" role="group" aria-label="FilterListButtons">
-				<button class="btn btn-primary col-auto filter-button" data-filter="all">Tout</button>
-				<button class="btn btn-primary col-auto filter-button" data-filter="pole_audio">Audiovisuel</button>
-				<button class="btn btn-primary col-auto filter-button" data-filter="pole_ip">Innovation Pédagogique</button>
-				<button class="btn btn-primary col-auto filter-button" data-filter="pole_tic">TIC</button>
-				<button class="btn btn-primary col-auto filter-button" data-filter="other">Autre</button>
+				<button class="btn btn-custom col-auto filter-button" data-filter="all">Tout</button>
+				<button class="btn btn-custom col-auto filter-button" data-filter="pole_audio">Audiovisuel</button>
+				<button class="btn btn-custom col-auto filter-button" data-filter="pole_ip">Innovation Pédagogique</button>
+				<button class="btn btn-custom col-auto filter-button" data-filter="pole_tic">TIC</button>
+				<button class="btn btn-custom col-auto filter-button" data-filter="other">Autre</button>
 			</div>
 		</div>
 		<br>
@@ -81,10 +81,10 @@
 		<h1 class="col-12 center-elements">Formations</h1>
 		<div class="row justify-content-md-center">
 			<div class="btn-group" role="group" aria-label="FilterListButtons">
-				<button class="btn btn-primary col-auto filter-button_2" data-filter="all">Tout</button>
-				<button class="btn btn-primary col-auto filter-button_2" data-filter="pole_audio">Audiovisuel</button>
-				<button class="btn btn-primary col-auto filter-button_2" data-filter="pole_ip">Innovation Pédagogique</button>
-				<button class="btn btn-primary col-auto filter-button_2" data-filter="pole_tic">TIC</button>
+				<button class="btn btn-custom col-auto filter-button_2" data-filter="all">Tout</button>
+				<button class="btn btn-custom col-auto filter-button_2" data-filter="pole_audio">Audiovisuel</button>
+				<button class="btn btn-custom col-auto filter-button_2" data-filter="pole_ip">Innovation Pédagogique</button>
+				<button class="btn btn-custom col-auto filter-button_2" data-filter="pole_tic">TIC</button>
 			</div>
 		</div>
 		<br>

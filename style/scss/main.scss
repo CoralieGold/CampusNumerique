@@ -90,7 +90,7 @@ section {
 .card {
 	margin-bottom: 30px !important;
 
-	h1, h2, h3, h4, h5 , p, a, li {
+	h1, h2, h3, h4, h5 , p, a:not(.btn-custom), li {
 		color: $dark !important;
 	}
 }
@@ -116,3 +116,4 @@ a.card {
 @import 'simpleList.scss';
 @import 'timeline.scss';
 @import 'news.scss';
+@import 'btn.scss'

@@ -35,7 +35,7 @@
 			</div>
 		</div>
 		<div class="row justify-content-md-center">
-			<a class="btn btn-dark" href="assistance.php">Voir toutes les questions</a>
+			<a class="btn btn-custom" href="assistance.php">Voir toutes les questions</a>
 		</div>
 	</section>
 </main>

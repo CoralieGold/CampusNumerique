@@ -26,8 +26,8 @@
 				</div>
 			</div>
 			<div class="col-sm-3">
-				<a href="#" class="btn btn-primary">Assistance</a>
-				<a href="#" class="btn btn-primary">Demande de travaux</a>
+				<a href="#" class="btn btn-custom">Assistance</a>
+				<a href="#" class="btn btn-custom">Demande de travaux</a>
 				<a href="mentions_legales.php">Mentions légales</a>
 				<a href="plan_du_site.php">Plan du site</a>
 			</div>

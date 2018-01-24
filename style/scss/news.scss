@@ -25,17 +25,22 @@
     }
 
     .card-img-overlay {
+        .card-title, .card-text, .card-date {
+            color: $light !important;
+        }
         transition: .5s ease;
         opacity: 0.4;
 
-        p:not(.blockquote-footer) {
-            background-color: rgba($dark, 0.3);
-            color: $light !important;
-            padding: 8px 16px;
+        .card-date {
+            background: linear-gradient($color, $color-second);
+            text-align: center;
+            padding: 5px;
         }
 
-        p.blockquote-footer {
-            color: $light !important;
+        .card-title {
+            text-transform: uppercase;
+            text-align: center;
+            font-weight: bold;
         }
     }
 

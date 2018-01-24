@@ -1,0 +1,84 @@
+.btn-custom {
+  color: $light;
+  background-color: $color;
+  border-color: $color;
+
+  &:hover, &:focus, &:active, &.active {
+    color: $light;
+    background-color: $color-second;
+    border-color: $color;
+  }
+
+  &:active, &.active {
+    background-image: none;
+  }
+
+  &.disabled, &[disabled] {
+    background-color: $color;
+    border-color: $color;
+
+    &:hover {
+      background-color: $color;
+      border-color: $color;
+    }
+
+    &:focus {
+      background-color: $color;
+      border-color: $color;
+    }
+
+    &:active {
+      background-color: $color;
+      border-color: $color;
+    }
+
+    &.active {
+      background-color: $color;
+      border-color: $color;
+    }
+  }
+
+}
+
+.open .dropdown-toggle.btn-custom {
+  color: $light;
+  background-color: $color-second;
+  border-color: $color;
+}
+
+
+.open .dropdown-toggle.btn-custom {
+  background-image: none;
+}
+
+
+fieldset[disabled] .btn-custom {
+  background-color: $color;
+  border-color: $color;
+}
+
+
+fieldset[disabled] .btn-custom:hover {
+  background-color: $color;
+  border-color: $color;
+}
+
+fieldset[disabled] .btn-custom:focus {
+  background-color: $color;
+  border-color: $color;
+}
+
+fieldset[disabled] .btn-custom:active {
+  background-color: $color;
+  border-color: $color;
+}
+
+fieldset[disabled] .btn-custom.active {
+  background-color: $color;
+  border-color: $color;
+}
+
+.btn-custom .badge {
+  color: #000000;
+  background-color: $light;
+}

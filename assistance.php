@@ -6,10 +6,10 @@
 		<h1 class="col-12 center-elements">Assistance</h1>
 		<div class="row justify-content-md-center">
 			<div class="btn-group" role="group" aria-label="FilterListButtons">
-				<button class="btn btn-primary col-auto filter-button" data-filter="all">Tout</button>
-				<button class="btn btn-primary col-auto filter-button" data-filter="cat1">Catégorie 1</button>
-				<button class="btn btn-primary col-auto filter-button" data-filter="cat2">Catégorie 2</button>
-				<button class="btn btn-primary col-auto filter-button" data-filter="cat3">Catégorie 3</button>
+				<button class="btn btn-custom col-auto filter-button" data-filter="all">Tout</button>
+				<button class="btn btn-custom col-auto filter-button" data-filter="cat1">Catégorie 1</button>
+				<button class="btn btn-custom col-auto filter-button" data-filter="cat2">Catégorie 2</button>
+				<button class="btn btn-custom col-auto filter-button" data-filter="cat3">Catégorie 3</button>
 			</div>
 		</div>
 		<br>
