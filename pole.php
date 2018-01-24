@@ -36,49 +36,43 @@
 	</section>
 	<!-- Actualités -->
 	<section class="lightSection col-4">
+		<h2>Agenda du pôle</h2>
 		<!-- Timeline -->
-		<div class="timeline">
-
-			<!-- Line component -->
-			<div class="line text-muted"></div>
-
-			<!-- Separator -->
-			<div class="separator text-muted">
-				<time>26. 3. 2015</time>
-			</div>
-			<!-- /Separator -->
-
-			<!-- Panel -->
-			<article class="panel panel-primary">
-
-				<!-- Icon -->
-				<div class="panel-heading icon">
-					<i class="fa fa-plus"></i>
-				</div>
-				<!-- /Icon -->
-
-				<!-- Heading -->
-				<div class="panel-heading">
-					<h2 class="panel-title">Titre actualité</h2>
-				</div>
-				<!-- /Heading -->
-
-				<!-- Body -->
-				<div class="panel-body">
-					Résumé actualité
-				</div>
-				<!-- /Body -->
-
-				<!-- Footer -->
-				<div class="panel-footer">
-					<small>Footer is also supported!</small>
-				</div>
-				<!-- /Footer -->
-
-			</article>
-			<!-- /Panel -->
-
-		</div>
+		<ul class="timeline">
+			<li class="timeline-inverted">
+				<a class="timeline-panel" href="evenement.php">
+					<div class="timeline-heading">
+						<h4 class="timeline-date">01/01/2000</h4>
+						<h4 class="timeline-title">Titre de l'actualité</h4>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá, depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.</p>
+					</div>
+				</a>
+			</li>
+			<li class="timeline-inverted">
+				<a class="timeline-panel" href="evenement.php">
+					<div class="timeline-heading">
+						<h4 class="timeline-date">01/01/2000</h4>
+						<h4 class="timeline-title">Titre de l'actualité</h4>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá, depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.</p>
+					</div>
+				</a>
+			</li>
+			<li class="timeline-inverted">
+				<a class="timeline-panel" href="evenement.php">
+					<div class="timeline-heading">
+						<h4 class="timeline-date">01/01/2000</h4>
+						<h4 class="timeline-title">Titre de l'actualité</h4>
+					</div>
+					<div class="timeline-body">
+						<p>Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis. Pra lá, depois divoltis porris, paradis. Paisis, filhis, espiritis santis. Mussum ipsum cacilds, vidis litro abertis. Consetis adipiscings elitis.</p>
+					</div>
+				</a>
+			</li>
+		</ul>
 		<!-- /Timeline -->
 	</section>
 	<!-- L'équipe -->
