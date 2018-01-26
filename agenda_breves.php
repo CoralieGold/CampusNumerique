@@ -5,86 +5,133 @@
 	<section class="darkSection col-12 container">
 		<h1 class="col-12 center-elements">Agenda</h1>
 		<div class="row">
-			<div class="card-deck col-12">
-				<div class="col-3">
-					<div class="card">
-						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+			<div class="card-group col-12">
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="evenement.php">
+						<div class="card-header background-fa-color">
+						    O1/O1/2000
+						 </div>
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_actualite" alt="Card image cap">
 						<div class="card-body">
-							<h4 class="card-title">Card title</h4>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							<a href="evenement.html" class="btn btn-custom">Go somewhere</a>
+							<h3>Titre de l'actualité</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
 						</div>
-					</div>
+						<div class="card-footer text-muted">
+							Catégorie
+						</div>
+					</a>
 				</div>
-				<div class="col-3">
-					<div class="card">
-						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="evenement.php">
+						<div class="card-header background-fa-color">
+						    O1/O1/2000
+						 </div>
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_actualite" alt="Card image cap">
 						<div class="card-body">
-							<h4 class="card-title">Card title</h4>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							<a href="evenement.html" class="btn btn-custom">Go somewhere</a>
+							<h3>Titre de l'actualité</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
 						</div>
-					</div>
+						<div class="card-footer text-muted">
+							Catégorie
+						</div>
+					</a>
 				</div>
-				<div class="col-3">
-					<div class="card">
-						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="evenement.php">
+						<div class="card-header background-fa-color">
+						    O1/O1/2000
+						 </div>
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_actualite" alt="Card image cap">
 						<div class="card-body">
-							<h4 class="card-title">Card title</h4>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							<a href="evenement.html" class="btn btn-custom">Go somewhere</a>
+							<h3>Titre de l'actualité</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
 						</div>
-					</div>
+						<div class="card-footer text-muted">
+							Catégorie
+						</div>
+					</a>
 				</div>
-				<div class="col-3">
-					<div class="card">
-						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="evenement.php">
+						<div class="card-header background-fa-color">
+						    O1/O1/2000
+						 </div>
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_actualite" alt="Card image cap">
 						<div class="card-body">
-							<h4 class="card-title">Card title</h4>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							<a href="evenement.html" class="btn btn-custom">Go somewhere</a>
+							<h3>Titre de l'actualité</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
 						</div>
-					</div>
+						<div class="card-footer text-muted">
+							Catégorie
+						</div>
+					</a>
 				</div>
-				<div class="col-3">
-					<div class="card">
-						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="evenement.php">
+						<div class="card-header background-fa-color">
+						    O1/O1/2000
+						 </div>
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_actualite" alt="Card image cap">
 						<div class="card-body">
-							<h4 class="card-title">Card title</h4>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							<a href="evenement.html" class="btn btn-custom">Go somewhere</a>
+							<h3>Titre de l'actualité</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
 						</div>
-					</div>
+						<div class="card-footer text-muted">
+							Catégorie
+						</div>
+					</a>
 				</div>
-				<div class="col-3">
-					<div class="card">
-						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="evenement.php">
+						<div class="card-header background-fa-color">
+						    O1/O1/2000
+						 </div>
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_actualite" alt="Card image cap">
 						<div class="card-body">
-							<h4 class="card-title">Card title</h4>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							<a href="evenement.html" class="btn btn-custom">Go somewhere</a>
+							<h3>Titre de l'actualité</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
 						</div>
-					</div>
+						<div class="card-footer text-muted">
+							Catégorie
+						</div>
+					</a>
 				</div>
-				<div class="col-3">
-					<div class="card">
-						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="evenement.php">
+						<div class="card-header background-fa-color">
+						    O1/O1/2000
+						 </div>
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_actualite" alt="Card image cap">
 						<div class="card-body">
-							<h4 class="card-title">Card title</h4>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							<a href="evenement.html" class="btn btn-custom">Go somewhere</a>
+							<h3>Titre de l'actualité</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
 						</div>
-					</div>
+						<div class="card-footer text-muted">
+							Catégorie
+						</div>
+					</a>
 				</div>
-				<div class="col-3">
-					<div class="card">
-						<img class="card-img-top" src="https://images.pexels.com/photos/7096/people-woman-coffee-meeting.jpg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="evenement.php">
+						<div class="card-header background-fa-color">
+						    O1/O1/2000
+						 </div>
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_actualite" alt="Card image cap">
 						<div class="card-body">
-							<h4 class="card-title">Card title</h4>
-							<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-							<a href="evenement.html" class="btn btn-custom">Go somewhere</a>
+							<h3>Titre de l'actualité</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
 						</div>
-					</div>
+						<div class="card-footer text-muted">
+							Catégorie
+						</div>
+					</a>
 				</div>
 			</div>
 		</div>
@@ -92,6 +139,89 @@
 
 	<section class="whiteSection col-12 container">
 		<h1 class="col-12 center-elements">Brèves</h1>
+				<div class="row">
+			<div class="card-group col-12">
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="breve.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
+						<div class="card-body">
+							<h3>Titre de la brève</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="breve.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
+						<div class="card-body">
+							<h3>Titre de la brève</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="breve.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
+						<div class="card-body">
+							<h3>Titre de la brève</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="breve.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
+						<div class="card-body">
+							<h3>Titre de la brève</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="breve.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
+						<div class="card-body">
+							<h3>Titre de la brève</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="breve.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
+						<div class="card-body">
+							<h3>Titre de la brève</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="breve.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
+						<div class="card-body">
+							<h3>Titre de la brève</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
+						</div>
+					</a>
+				</div>
+
+				<div class="col-3 filter gallery_product pole_tic">
+					<a class="card" href="breve.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
+						<div class="card-body">
+							<h3>Titre de la brève</h3>
+							<p class="text-muted text-center">Auteur : Prénom Nom</p>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
 	</section>
 </main>
 
