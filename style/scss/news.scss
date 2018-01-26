@@ -1,6 +1,7 @@
 #news {
     .card {
         margin: 0 !important;
+        border: none;
 
         &:hover {
             .card-img {
@@ -41,6 +42,7 @@
             text-transform: uppercase;
             text-align: center;
             font-weight: bold;
+             margin: 20px;
         }
     }
 

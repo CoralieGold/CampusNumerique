@@ -57,7 +57,7 @@
 			<div class="column col-xs-12 col-lg-7">
 				<div class="card bg-dark text-white mainCard">
 					<img class="card-img" src="http://fakeimg.pl/400x150/" alt="Card image">
-					<div class="card-img-overlay">
+					<div class="card-img-overlay container">
 						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -65,14 +65,16 @@
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 							consequat.
 						</p>
-						<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
+						<div class="row justify-content-md-center">
+							<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
+						</div>
 					</div>
 				</div>
 			</div>
 			<div class="column col-xs-12 col-lg-5">
 				<div class="card bg-dark text-white secondCard">
 					<img class="card-img" src="http://fakeimg.pl/400x150/" alt="Card image">
-					<div class="card-img-overlay">
+					<div class="card-img-overlay container">
 						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -80,12 +82,14 @@
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 							consequat.
 						</p>
-						<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
+						<div class="row justify-content-md-center">
+							<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
+						</div>
 					</div>
 				</div>
 				<div class="card bg-dark text-white secondCard">
 					<img class="card-img" src="http://fakeimg.pl/400x150/" alt="Card image">
-					<div class="card-img-overlay">
+					<div class="card-img-overlay container">
 						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -93,7 +97,9 @@
 							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 							consequat.
 						</p>
-						<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
+						<div class="row justify-content-md-center">
+							<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
+						</div>
 					</div>
 				</div>
 			</div>
