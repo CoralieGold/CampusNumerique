@@ -80,6 +80,19 @@ a.card {
   width: 100%;
   background-color: #f8f9fa;
   margin: 0; }
+  #header img {
+    max-height: 70px; }
+  #header a h1 {
+    text-decoration: none;
+    color: #212121;
+    text-align: center;
+    margin: auto auto; }
+    #header a h1:hover {
+      text-decoration: none; }
+  #header a:hover {
+    text-decoration: none; }
+  #header .form-inline {
+    margin-top: 5px; }
 
 #footer {
   padding: 50px 0 20px 0;
