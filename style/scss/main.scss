@@ -64,6 +64,9 @@ section {
 	}
 
 	&.darkSection {
+		background: -webkit-gradient(linear, left top, left bottom, from($color_darker), to($color-dark));
+		background: -webkit-linear-gradient($color_darker, $color-dark);
+		background: -o-linear-gradient($color_darker, $color-dark);
 		background: linear-gradient($color_darker, $color-dark);
 		h1, h2, h3, h4, h5 , p, a:not(.btn), li {
 			color: $light;
@@ -71,6 +74,9 @@ section {
 	}
 
 	&.lightSection {
+		background: -webkit-gradient(linear, left top, left bottom, from($color_lighter), to($color-light));
+		background: -webkit-linear-gradient($color_lighter, $color-light);
+		background: -o-linear-gradient($color_lighter, $color-light);
 		background: linear-gradient($color_lighter, $color-light);
 		h1, h2, h3, h4, h5, p, a:not(.btn), li {
 			color: $dark;
@@ -101,6 +107,8 @@ section {
 
 a.card {
 	border: $light 2px solid;
+  -webkit-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
+  -o-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
   transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
 
 	&:hover, &:focus {
@@ -110,6 +118,9 @@ a.card {
 }
 
 .background-fa-color {
+	background: -webkit-gradient(linear, left top, left bottom, from($color), to($color_second));
+	background: -webkit-linear-gradient($color, $color_second);
+	background: -o-linear-gradient($color, $color_second);
 	background: linear-gradient($color, $color_second);
 	color: $light;
 	text-align: center;

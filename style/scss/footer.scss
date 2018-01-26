@@ -9,5 +9,22 @@
 
 	img {
 		padding: 5px;
+		max-height: 80px;
+	}
+
+	.footer-titles h3 {
+		padding-bottom: 15px;
+		margin-bottom: 20px;
+		border-bottom: 1px solid $light;
+	}
+
+	.footer-copyright {
+		padding-top: 15px;
+		margin-top: 15px;
+		border-top: 1px solid $light;
+	}
+
+	a {
+		color: $color;
 	}
 }

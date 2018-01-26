@@ -27,7 +27,7 @@
 						</a>
 					</div>
 					<div class="form-group mb-2 col-sm-2 col-xs-12 row" id="search-bar">
-						<input class="form-control mb-2 col-9" type="search" placeholder="Search" aria-label="Search">
+						<input class="form-control mb-2 col-12 typeahead" type="search" placeholder="Recherche" aria-label="Recherche">
 						<button type="submit" class="btn btn-custom mb-2 col-3">
 							<i class="fa fa-search" aria-hidden="true"></i>
 						</button>

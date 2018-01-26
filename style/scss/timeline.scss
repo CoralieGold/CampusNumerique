@@ -95,6 +95,9 @@
   margin-top: 0;
   text-align: center;
   color: $light !important;
+  background: -webkit-gradient(linear, left top, left bottom, from($color), to($color-second));
+  background: -webkit-linear-gradient($color, $color-second);
+  background: -o-linear-gradient($color, $color-second);
   background: linear-gradient($color, $color-second);
   padding: 5px;
 }
@@ -123,7 +126,6 @@
     > li > {
       .timeline-panel {
         width: calc(100% - 90px);
-        width: -moz-calc(100% - 90px);
         width: -webkit-calc(100% - 90px);
       }
       .timeline-badge {
