@@ -3,7 +3,7 @@
 <!-- CONTENT -->
 <main class="row justify-content-md-center">
 	<!-- Présentation -->
-	<section class="darkSection col-8 presentationText">
+	<section class="darkSection col-lg-8 presentationText">
 		<div class="row justify-content-md-center">
 			<div class="col-10">
 				<h1>Nom du Pôle</h1>
@@ -35,7 +35,7 @@
 		</div>
 	</section>
 	<!-- Actualités -->
-	<section class="lightSection col-4">
+	<section class="hide_smartphone hide_tablet lightSection col-lg-4">
 		<h2>Agenda du pôle</h2>
 		<!-- Timeline -->
 		<ul class="timeline">
@@ -129,7 +129,7 @@
 		</div>	
 	</section>
 	<!-- Assistance -->
-	<section class="darkSection col-6">
+	<section class="darkSection col-lg-6">
 		<h1>Assistance</h1>
 		<div class="card-deck">
 			<div class="card">
@@ -160,7 +160,7 @@
 		</div>
 	</section>
 	<!-- Outils -->
-	<section class="lightSection col-6">
+	<section class="lightSection col-lg-6">
 		<h1>Outils</h1>
 		<div class="card-deck">
 			<div class="card">

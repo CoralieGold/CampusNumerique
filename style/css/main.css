@@ -30,6 +30,12 @@ h5 {
 @media (max-width: 575.99999px) {
   h1.display-3 {
     font-size: 3rem; } }
+@media (max-width: 767.99999px) {
+  .hide_smartphone {
+    display: none; } }
+@media (max-width: 991.99999px) {
+  .hide_tablet {
+    display: none; } }
 .container-fluid, .row {
   padding-right: 0;
   padding-left: 0;

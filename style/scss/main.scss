@@ -35,9 +35,15 @@ h5 {font-size: 1.2rem; text-align: center;}
 }
 
 @media (max-width: 767.99999px) {
+	.hide_smartphone {
+		display: none;
+	}
 }
 
 @media (max-width: 991.99999px) {
+	.hide_tablet {
+		display: none;
+	}
 }
 
 @media (max-width: 1999.99999px) {

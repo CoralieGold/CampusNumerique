@@ -4,19 +4,19 @@
 		<main class="row justify-content-md-center">
 			<section class="darkSection col-12">
 				<div class="row justify-content-around">
-					<div class="col-3 center-element">
+					<div class="col-md-3 center-element">
 						<a href="pole.php">
 							<img class="rounded-circle" src="http://fakeimg.pl/100x100/" alt="Generic placeholder image">
 							<h2>Cellule Innovation Pédagogique de la VPEP</h2>
 						</a>
 					</div><!-- /.col-lg-4 -->
-					<div class="col-3 center-element">
+					<div class="col-md-3 center-element">
 						<a href="pole.php">
 							<img class="rounded-circle" src="http://fakeimg.pl/100x100/" alt="Generic placeholder image">
 							<h2>Pôle Audiovisuel du Campus Numérique</h2>
 						</a>
 					</div><!-- /.col-lg-4 -->
-					<div class="col-3 center-element">
+					<div class="col-md-3 center-element">
 						<a href="pole.php">
 							<img class="rounded-circle" src="http://fakeimg.pl/100x100/" alt="Generic placeholder image">
 							<h2>Pôle TIC du Campus Numérique</h2>
