@@ -28,21 +28,26 @@ h3 {font-size: 1.6rem; text-align: center;}
 h4 {font-size: 1.4rem; text-align: center;}
 h5 {font-size: 1.2rem; text-align: center;}
 
-@media (min-width: 576px) {
+@media (max-width: 575.99999px) {
+	h1.display-3 {
+		font-size: 3rem;
+	}
 }
 
-@media (min-width: 768px) {
+@media (max-width: 767.99999px) {
 }
 
-@media (min-width: 992px) {
+@media (max-width: 991.99999px) {
 }
 
-@media (min-width: 1200px) {
+@media (max-width: 1999.99999px) {
 }
 
 .container-fluid, .row {
-	padding: 0;
-	margin: 0;
+  padding-right:0;
+  padding-left:0;
+  margin-right:auto;
+  margin-left:auto	
 }
 
 p {

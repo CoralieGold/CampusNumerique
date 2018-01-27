@@ -61,9 +61,7 @@
 						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat.
+							tempor incididunt ut labore et dolore magna aliqua.
 						</p>
 						<div class="row justify-content-md-center">
 							<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
@@ -78,9 +76,7 @@
 						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat.
+							tempor incididunt ut labore et dolore magna aliqua.
 						</p>
 						<div class="row justify-content-md-center">
 							<a href="actualite.php" class="btn btn-custom">En savoir plus</a>
@@ -93,9 +89,7 @@
 						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
 						<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-							consequat.
+							tempor incididunt ut labore et dolore magna aliqua.
 						</p>
 						<div class="row justify-content-md-center">
 							<a href="actualite.php" class="btn btn-custom">En savoir plus</a>

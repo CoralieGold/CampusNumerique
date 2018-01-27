@@ -12,7 +12,7 @@
 		max-height: 80px;
 	}
 
-	.footer-titles h3 {
+	h3.footer-titles {
 		padding-bottom: 15px;
 		margin-bottom: 20px;
 		border-bottom: 1px solid $light;
@@ -27,4 +27,24 @@
 	a {
 		color: $color;
 	}
+}
+
+
+@media (max-width: 575.99999px) {
+	#footer {
+		h3.footer-titles {
+			padding-top: 15px;
+			margin-top: 20px;
+			border-top: 1px solid $light;
+		}
+	}
+}
+
+@media (max-width: 767.99999px) {
+}
+
+@media (max-width: 991.99999px) {
+}
+
+@media (max-width: 1999.99999px) {
 }
