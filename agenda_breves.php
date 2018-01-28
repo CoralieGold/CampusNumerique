@@ -6,7 +6,7 @@
 		<h1 class="col-12 center-elements">Agenda</h1>
 		<div class="row">
 			<div class="card-group col-12">
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="evenement.php">
 						<div class="card-header background-fa-color">
 						    O1/O1/2000
@@ -22,7 +22,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="evenement.php">
 						<div class="card-header background-fa-color">
 						    O1/O1/2000
@@ -38,7 +38,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="evenement.php">
 						<div class="card-header background-fa-color">
 						    O1/O1/2000
@@ -54,7 +54,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="evenement.php">
 						<div class="card-header background-fa-color">
 						    O1/O1/2000
@@ -70,7 +70,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="evenement.php">
 						<div class="card-header background-fa-color">
 						    O1/O1/2000
@@ -86,7 +86,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="evenement.php">
 						<div class="card-header background-fa-color">
 						    O1/O1/2000
@@ -102,7 +102,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="evenement.php">
 						<div class="card-header background-fa-color">
 						    O1/O1/2000
@@ -118,7 +118,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="evenement.php">
 						<div class="card-header background-fa-color">
 						    O1/O1/2000
@@ -141,7 +141,7 @@
 		<h1 class="col-12 center-elements">Brèves</h1>
 				<div class="row">
 			<div class="card-group col-12">
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="breve.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
 						<div class="card-body">
@@ -151,7 +151,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="breve.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
 						<div class="card-body">
@@ -161,7 +161,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="breve.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
 						<div class="card-body">
@@ -171,7 +171,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="breve.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
 						<div class="card-body">
@@ -181,7 +181,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="breve.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
 						<div class="card-body">
@@ -191,7 +191,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="breve.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
 						<div class="card-body">
@@ -201,7 +201,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="breve.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
 						<div class="card-body">
@@ -211,7 +211,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="breve.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=image_breve" alt="Card image cap">
 						<div class="card-body">

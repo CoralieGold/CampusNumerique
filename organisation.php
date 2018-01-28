@@ -26,7 +26,7 @@
 			</section>
 			<section class="whiteSection col-12 presentationText">
 				<div class="row justify-content-md-center">
-					<div class="col-10">
+					<div class="col-md-10">
 						<h1>Organisation du Campus Numérique</h1>
 						<p>Le Campus Numérique et la Cellule Innovation Pédagogique de l'UPEM travaillent de concert afin de développer des modes pédagogiques innovants mais aussi afin de permettre aux enseignants de pouvoir enseigner, communiquer et effectuer leurs recherches scientifiques avec le numérique.</p>
 

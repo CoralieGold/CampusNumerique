@@ -16,7 +16,7 @@
 
 		<div class="row">
 			<div class="card-group col-12">
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_tic">
 					<a class="card" href="projet.php">
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
@@ -32,7 +32,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_audio">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_audio">
 					<a class="card" href="projet.php">
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
@@ -48,7 +48,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_ip">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_ip">
 					<a class="card" href="projet.php">
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
@@ -63,7 +63,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-3 filter gallery_product pole_ip">
+				<div class="col-lg-3 col-md-4 filter gallery_product pole_ip">
 					<a class="card" href="projet.php">
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
@@ -97,7 +97,7 @@
 
 		<div class="row">
 			<div class="card-group col-12">
-				<div class="col-3 filter_2 gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 filter_2 gallery_product pole_tic">
 					<a class="card" href="realisation.php">
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
@@ -113,7 +113,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter_2 gallery_product pole_audio">
+				<div class="col-lg-3 col-md-4 filter_2 gallery_product pole_audio">
 					<a class="card" href="realisation.php">
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
@@ -129,7 +129,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter_2 gallery_product pole_ip">
+				<div class="col-lg-3 col-md-4 filter_2 gallery_product pole_ip">
 					<a class="card" href="realisation.php">
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
@@ -144,7 +144,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-3 filter_2 gallery_product pole_ip">
+				<div class="col-lg-3 col-md-4 filter_2 gallery_product pole_ip">
 					<a class="card" href="realisation.php">
 						<div class="card-header background-fa-color">
 						  O1/O1/2000

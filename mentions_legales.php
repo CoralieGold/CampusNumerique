@@ -4,7 +4,7 @@
 	<section class="lightSection col-12">
 		<h1 class="col-12">Mentions légales</h1>
 		<div class="row justify-content-md-center">
-			<div class="col-10">
+			<div class="col-md-10">
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

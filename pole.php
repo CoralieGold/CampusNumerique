@@ -5,7 +5,7 @@
 	<!-- Présentation -->
 	<section class="darkSection col-lg-8 presentationText">
 		<div class="row justify-content-md-center">
-			<div class="col-10">
+			<div class="col-md-10">
 				<h1>Nom du Pôle</h1>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,

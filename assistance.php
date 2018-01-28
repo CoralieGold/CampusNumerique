@@ -16,7 +16,7 @@
 
 		<div class="row">
 			<div class="card-group col-12">
-				<div class="col-3 filter gallery_product cat1">
+				<div class="col-lg-3 col-md-4 filter gallery_product cat1">
 					<a class="card" href="reponse_assistance.php">
 						<i class="card-img-top background-fa-color fa fa-desktop fa-2x"></i>
 						<div class="card-body">
@@ -28,7 +28,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product cat2">
+				<div class="col-lg-3 col-md-4 filter gallery_product cat2">
 					<a class="card" href="reponse_assistance.php">
 						<i class="card-img-top background-fa-color fa fa-desktop fa-2x"></i>
 						<div class="card-body">
@@ -40,7 +40,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product cat3">
+				<div class="col-lg-3 col-md-4 filter gallery_product cat3">
 					<a class="card" href="reponse_assistance.php">
 						<i class="card-img-top background-fa-color fa fa-desktop fa-2x"></i>
 						<div class="card-body">
@@ -52,7 +52,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product cat1">
+				<div class="col-lg-3 col-md-4 filter gallery_product cat1">
 					<a class="card" href="reponse_assistance.php">
 						<i class="card-img-top background-fa-color fa fa-desktop fa-2x"></i>
 						<div class="card-body">
@@ -64,7 +64,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product cat3">
+				<div class="col-lg-3 col-md-4 filter gallery_product cat3">
 					<a class="card" href="reponse_assistance.php">
 						<i class="card-img-top background-fa-color fa fa-desktop fa-2x"></i>
 						<div class="card-body">

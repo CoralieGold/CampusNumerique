@@ -28,7 +28,7 @@
 					</div>
 					<div class="form-group mb-2 col-sm-2 col-xs-12 row" id="search-bar">
 						<input class="form-control mb-2 col-9 typeahead" type="search" placeholder="Recherche"  data-provide="typeahead" aria-label="Recherche">
-						<button type="submit" class="btn btn-custom mb-2 col-3">
+						<button type="submit" class="btn btn-custom mb-2 col-3 btn-custom-fa">
 							<i class="fa fa-search" aria-hidden="true"></i>
 						</button>
 					</div>

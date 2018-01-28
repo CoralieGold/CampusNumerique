@@ -17,7 +17,7 @@
 
 		<div class="row">
 			<div class="card-group col-12">
-				<div class="col-3 filter gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product pole_tic">
 					<a class="card" href="outil.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
 						<div class="card-body">
@@ -29,7 +29,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_audio">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product pole_audio">
 					<a class="card" href="outil.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
 						<div class="card-body">
@@ -41,7 +41,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product pole_ip">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product pole_ip">
 					<a class="card" href="outil.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
 						<div class="card-body">
@@ -53,7 +53,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter gallery_product other">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product other">
 					<a class="card" href="outil.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
 						<div class="card-body">
@@ -61,7 +61,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-3 filter gallery_product pole_ip">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product pole_ip">
 					<a class="card" href="outil.php">
 						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
 						<div class="card-body">
@@ -91,7 +91,7 @@
 
 		<div class="row">
 			<div class="card-group col-12">
-				<div class="col-3 filter_2 gallery_product pole_tic">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter_2 gallery_product pole_tic">
 					<a class="card" href="formation.php">
 						<i class="card-img-top background-fa-color fa fa-desktop fa-2x"></i>
 						<div class="card-body">
@@ -103,7 +103,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter_2 gallery_product pole_audio">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter_2 gallery_product pole_audio">
 					<a class="card" href="formation.php">
 						<i class="card-img-top background-fa-color fa fa-camera fa-2x"></i>
 						<div class="card-body">
@@ -115,7 +115,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter_2 gallery_product pole_ip">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter_2 gallery_product pole_ip">
 					<a class="card" href="formation.php">
 						<i class="card-img-top background-fa-color fa fa-graduation-cap fa-2x"></i>
 						<div class="card-body">
@@ -127,7 +127,7 @@
 					</a>
 				</div>
 
-				<div class="col-3 filter_2 gallery_product pole_audio">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter_2 gallery_product pole_audio">
 					<a class="card" href="formation.php">
 						<i class="card-img-top background-fa-color fa fa-camera fa-2x"></i>
 						<div class="card-body">
@@ -138,7 +138,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="col-3 filter_2 gallery_product pole_ip">
+				<div class="col-lg-3 col-md-4 col-sm-6 filter_2 gallery_product pole_ip">
 					<a class="card" href="formation.php">
 						<i class="card-img-top background-fa-color fa fa-graduation-cap fa-2x"></i>
 						<div class="card-body">

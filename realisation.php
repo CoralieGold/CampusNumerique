@@ -8,7 +8,7 @@
 			<img src="http://fakeimg.pl/350x150/?text=Illustration" class="col-6">
 		</div>
 		<div class="row justify-content-md-center">
-			<div class="col-10">
+			<div class="col-md-10">
 				<p>
 					Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -36,7 +36,7 @@
 			</div>
 		</div>
 		<div class="row justify-content-md-center">
-			<a class="btn btn-custom" href="realisations_projets.php">Voir toutes les réalisations</a>
+			<a class="btn btn-custom col-xs-12 col-sm-auto" href="realisations_projets.php">Voir toutes les réalisations</a>
 		</div>
 	</section>
 </main>

@@ -518,6 +518,11 @@ a.card {
   color: #f8f9fa;
   background-color: #FF3300;
   border-color: #FF3300; }
+  .btn-custom:not(.btn-custom-fa) {
+    white-space: pre-wrap;
+    overflow: hidden; }
+  .btn-custom.btn-custom-fa {
+    padding: 6px 0 6px 0; }
   .btn-custom:hover, .btn-custom:focus, .btn-custom:active, .btn-custom.active {
     color: #f8f9fa;
     background-color: #EA5A0B;

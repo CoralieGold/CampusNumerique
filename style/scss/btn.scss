@@ -2,6 +2,15 @@
   color: $light;
   background-color: $color;
   border-color: $color;
+  &:not(.btn-custom-fa) {
+    white-space: pre-wrap;
+    overflow: hidden;
+  }
+
+  &.btn-custom-fa {
+    padding: 6px 0 6px 0;
+  }
+
 
   &:hover, &:focus, &:active, &.active {
     color: $light;
