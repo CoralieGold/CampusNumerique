@@ -54,17 +54,17 @@ section {
     section.whiteSection h1, section.whiteSection h2, section.whiteSection h3, section.whiteSection h4, section.whiteSection h5, section.whiteSection p, section.whiteSection a:not(.btn), section.whiteSection li {
       color: #212121; }
   section.darkSection {
-    background: -webkit-gradient(linear, left top, left bottom, from(#167E8A), to(#92B3C6));
-    background: -webkit-linear-gradient(#167E8A, #92B3C6);
-    background: -o-linear-gradient(#167E8A, #92B3C6);
-    background: linear-gradient(#167E8A, #92B3C6); }
+    background: -webkit-gradient(linear, left top, left bottom, from(#0087AB), to(#0087AB));
+    background: -webkit-linear-gradient(#0087AB, #0087AB);
+    background: -o-linear-gradient(#0087AB, #0087AB);
+    background: linear-gradient(#0087AB, #0087AB); }
     section.darkSection h1, section.darkSection h2, section.darkSection h3, section.darkSection h4, section.darkSection h5, section.darkSection p, section.darkSection a:not(.btn), section.darkSection li {
       color: #f8f9fa; }
   section.lightSection {
-    background: -webkit-gradient(linear, left top, left bottom, from(#0087AB), to(#66CCCC));
-    background: -webkit-linear-gradient(#0087AB, #66CCCC);
-    background: -o-linear-gradient(#0087AB, #66CCCC);
-    background: linear-gradient(#0087AB, #66CCCC); }
+    background: -webkit-gradient(linear, left top, left bottom, from(#C5C1B7), to(#C5C1B7));
+    background: -webkit-linear-gradient(#C5C1B7, #C5C1B7);
+    background: -o-linear-gradient(#C5C1B7, #C5C1B7);
+    background: linear-gradient(#C5C1B7, #C5C1B7); }
     section.lightSection h1, section.lightSection h2, section.lightSection h3, section.lightSection h4, section.lightSection h5, section.lightSection p, section.lightSection a:not(.btn), section.lightSection li {
       color: #212121; }
   section.presentationText {

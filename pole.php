@@ -132,64 +132,58 @@
 	<section class="darkSection col-lg-6">
 		<h1>Assistance</h1>
 		<div class="card-deck">
-			<div class="card">
-				<div class="view overlay hm-white-slight">
-					<img src="http://fakeimg.pl/400x300/" class="img-fluid" alt="photo">
-					<a href="#!">
-						<div class="mask"></div>
+				<div class="col-lg-6 filter gallery_product cat2">
+					<a class="card" href="reponse_assistance.php">
+						<i class="card-img-top background-fa-color fa fa-desktop fa-2x"></i>
+						<div class="card-body">
+							<h3>Ceci est une question de la page assistance ?</h3>
+						</div>
+						 <div class="card-footer text-muted">
+							Pôle
+						</div>
 					</a>
 				</div>
-				<div class="card-body text-center">
-					<h4 class="card-title font-up brown-text">Nom Outil</h4>
-					<a href="#">Question ?</a>
-				</div>
-			</div>
 
-			<div class="card">
-				<div class="view overlay hm-white-slight">
-					<img src="http://fakeimg.pl/400x300/" class="img-fluid" alt="photo">
-					<a href="#!">
-						<div class="mask"></div>
+				<div class="col-lg-6 filter gallery_product cat3">
+					<a class="card" href="reponse_assistance.php">
+						<i class="card-img-top background-fa-color fa fa-desktop fa-2x"></i>
+						<div class="card-body">
+							<h3>Ceci est une question de la page assistance ?</h3>
+						</div>
+						 <div class="card-footer text-muted">
+							Pôle
+						</div>
 					</a>
 				</div>
-				<div class="card-body text-center">
-					<h4 class="card-title font-up brown-text">Nom Outil</h4>
-					<a href="#">Question ?</a>
-				</div>
-			</div>
 		</div>
 	</section>
 	<!-- Outils -->
 	<section class="lightSection col-lg-6">
 		<h1>Outils</h1>
 		<div class="card-deck">
-			<div class="card">
-				<div class="view overlay hm-white-slight">
-					<img src="http://fakeimg.pl/400x300/" class="img-fluid" alt="photo">
-					<a href="#!">
-						<div class="mask"></div>
+				<div class="col-lg-6 filter gallery_product pole_tic">
+					<a class="card" href="outil.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
+						<div class="card-body">
+							<h3>Nom de l'Outil</h3>
+						</div>
+						<div class="card-footer text-muted">
+							Pôle
+						</div>
 					</a>
 				</div>
-				<div class="card-body text-center">
-					<h4 class="card-title font-up brown-text">Nom Outil</h4>
-					<p class="card-text black-text">Description Outil</p>
-					<a href="#" class="btn">Plus d'informations</a>
-				</div>
-			</div>
 
-			<div class="card">
-				<div class="view overlay hm-white-slight">
-					<img src="http://fakeimg.pl/400x300/" class="img-fluid" alt="photo">
-					<a href="#!">
-						<div class="mask"></div>
+				<div class="col-lg-6 filter gallery_product pole_audio">
+					<a class="card" href="outil.php">
+						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
+						<div class="card-body">
+							<h3>Nom de l'Outil</h3>
+						</div>
+						 <div class="card-footer text-muted">
+							Pôle
+						</div>
 					</a>
 				</div>
-				<div class="card-body text-center">
-					<h4 class="card-title font-up brown-text">Nom Outil</h4>
-					<p class="card-text black-text">Description Outil</p>
-					<a href="#" class="btn">Plus d'informations</a>
-				</div>
-			</div>
 		</div>
 
 	</section>

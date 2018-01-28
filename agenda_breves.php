@@ -137,7 +137,7 @@
 		</div>
 	</section>
 
-	<section class="whiteSection col-12 container">
+	<section class="lightSection col-12 container">
 		<h1 class="col-12 center-elements">Brèves</h1>
 				<div class="row">
 			<div class="card-group col-12">

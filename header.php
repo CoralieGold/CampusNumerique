@@ -20,17 +20,16 @@
 		<header class="row sticky-top" id="header">
 			<div class="row col-12">
 				<form class="form-inline col-12" action="resultat_recherche.php">
-					<div class="form-group mb-2 col-sm-10 col-xs-12">
-						<a href="index.php" class="row col-12">
-							<div class="col-md-2 col-sm-6 col-xs-12"><img src="img/UPEM_LOGO.png" class="d-inline-block align-center img-fluid" alt=""></div>
-							<h1 class="col-md-10 col-sm-6 col-xs-12 mb-2">Campus Numérique et Innovation Pédagogique</h1>
+					<div class="form-group col-12">
+							<a href="index.php" class="col-md-2 col-sm-6 col-xs-12"><img src="img/UPEM_LOGO.png" class="d-inline-block align-center img-fluid" alt=""></a>
+							<a href="index.php" class="col-md-8 col-sm-6 col-xs-12 mb-2"><h1>Campus Numérique et Innovation Pédagogique</h1></a>
 						</a>
-					</div>
-					<div class="form-group mb-2 col-sm-2 col-xs-12 row" id="search-bar">
-						<input class="form-control mb-2 col-9 typeahead" type="search" placeholder="Recherche"  data-provide="typeahead" aria-label="Recherche">
-						<button type="submit" class="btn btn-custom mb-2 col-3 btn-custom-fa">
-							<i class="fa fa-search" aria-hidden="true"></i>
-						</button>
+						<div class="form-group mb-2 col-sm-2 col-xs-12 row" id="search-bar">
+							<input class="form-control mb-2 col-9 typeahead" type="search" placeholder="Recherche"  data-provide="typeahead" aria-label="Recherche">
+							<button type="submit" class="btn btn-custom mb-2 col-3 btn-custom-fa">
+								<i class="fa fa-search" aria-hidden="true"></i>
+							</button>
+						</div>
 					</div>
 				</form>
 			</div>

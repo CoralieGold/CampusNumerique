@@ -10,7 +10,7 @@
 			</p>
 		</div>
 	</section>
-	<section class="col-12 whiteSection" id="cnDescription">
+	<section class="col-12 lightSection" id="cnDescription">
 		<h1 class="col-12">Qu'est-ce que le Campus Numérique ?</h1>
 		<div class="row col-12 justify-content-between">
 			<div class="col-sm-6">
