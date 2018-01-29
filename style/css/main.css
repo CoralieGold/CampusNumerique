@@ -27,6 +27,11 @@ h5 {
   font-size: 1.2rem;
   text-align: center; }
 
+a {
+  color: #0087AB; }
+  a:hover {
+    color: #74B2D1; }
+
 @media (max-width: 575.99999px) {
   h1.display-3 {
     font-size: 3rem; } }
@@ -53,6 +58,8 @@ section {
     background-color: #f8f9fa; }
     section.whiteSection h1, section.whiteSection h2, section.whiteSection h3, section.whiteSection h4, section.whiteSection h5, section.whiteSection p, section.whiteSection a:not(.btn), section.whiteSection li {
       color: #212121; }
+    section.whiteSection a.card {
+      border: #0087AB 2px solid; }
   section.darkSection {
     background: -webkit-gradient(linear, left top, left bottom, from(#0087AB), to(#0087AB));
     background: -webkit-linear-gradient(#0087AB, #0087AB);
@@ -60,13 +67,17 @@ section {
     background: linear-gradient(#0087AB, #0087AB); }
     section.darkSection h1, section.darkSection h2, section.darkSection h3, section.darkSection h4, section.darkSection h5, section.darkSection p, section.darkSection a:not(.btn), section.darkSection li {
       color: #f8f9fa; }
+    section.darkSection a.card {
+      border: #f8f9fa 2px solid; }
   section.lightSection {
-    background: -webkit-gradient(linear, left top, left bottom, from(#C5C1B7), to(#C5C1B7));
-    background: -webkit-linear-gradient(#C5C1B7, #C5C1B7);
-    background: -o-linear-gradient(#C5C1B7, #C5C1B7);
-    background: linear-gradient(#C5C1B7, #C5C1B7); }
+    background: -webkit-gradient(linear, left top, left bottom, from(#74B2D1), to(#74B2D1));
+    background: -webkit-linear-gradient(#74B2D1, #74B2D1);
+    background: -o-linear-gradient(#74B2D1, #74B2D1);
+    background: linear-gradient(#74B2D1, #74B2D1); }
     section.lightSection h1, section.lightSection h2, section.lightSection h3, section.lightSection h4, section.lightSection h5, section.lightSection p, section.lightSection a:not(.btn), section.lightSection li {
       color: #212121; }
+    section.lightSection a.card {
+      border: #0087AB 2px solid; }
   section.presentationText {
     text-align: justify; }
 
@@ -81,13 +92,12 @@ section {
     text-align: center; }
 
 a.card {
-  border: #f8f9fa 2px solid;
   -webkit-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
   -o-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
   transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3); }
   a.card:hover, a.card:focus {
     text-decoration: none;
-    border-color: #FF3300; }
+    border-color: #FF3300 !important; }
 
 .background-fa-color {
   background: -webkit-gradient(linear, left top, left bottom, from(#FF3300), to(#EA5A0B));
@@ -138,8 +148,6 @@ a.card {
     padding-top: 15px;
     margin-top: 15px;
     border-top: 1px solid #f8f9fa; }
-  #footer a {
-    color: #FF3300; }
 
 @media (max-width: 575.99999px) {
   #footer h3.footer-titles {
@@ -147,7 +155,7 @@ a.card {
     margin-top: 20px;
     border-top: 1px solid #f8f9fa; } }
 #headerJumbotron {
-  background: #f8f9fa url("http://fakeimg.pl/2000x500/") no-repeat center center; }
+  background: #212121 url("http://fakeimg.pl/2000x500/") no-repeat center center; }
 
 .transition {
   -webkit-transition: 0.3s cubic-bezier(0.3, 0, 0, 1.3);
@@ -515,9 +523,12 @@ a.card {
   backface-visibility: hidden; }
 
 .btn-custom {
-  color: #f8f9fa;
-  background-color: #FF3300;
-  border-color: #FF3300; }
+  color: #212121;
+  background-color: #f8f9fa;
+  border-color: #FF3300;
+  -webkit-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
+  -o-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
+  transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3); }
   .btn-custom:not(.btn-custom-fa) {
     white-space: pre-wrap;
     overflow: hidden; }

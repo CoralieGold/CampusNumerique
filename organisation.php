@@ -24,7 +24,7 @@
 					</div><!-- /.col-lg-4 -->
 				</div><!-- /.row -->
 			</section>
-			<section class="lightSection col-12 presentationText">
+			<section class="whiteSection col-12 presentationText">
 				<div class="row justify-content-md-center">
 					<div class="col-md-10">
 						<h1>Organisation du Campus Numérique</h1>

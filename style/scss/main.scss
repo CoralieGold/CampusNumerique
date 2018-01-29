@@ -4,8 +4,8 @@ $light: #f8f9fa;
 $color: #FF3300;
 $color_second: #EA5A0B;
 
-$color_light: #C5C1B7;
-$color_lighter: #C5C1B7;
+$color_light: #74B2D1;
+$color_lighter: #74B2D1;
 
 $color_dark: #0087AB;
 $color_darker: #0087AB;
@@ -27,6 +27,13 @@ h2 {font-size: 1.8rem; text-align: center;}
 h3 {font-size: 1.6rem; text-align: center;}
 h4 {font-size: 1.4rem; text-align: center;}
 h5 {font-size: 1.2rem; text-align: center;}
+a {
+	color: $color_dark;
+
+	&:hover {
+		color: $color_light;
+	}
+}	
 
 @media (max-width: 575.99999px) {
 	h1.display-3 {
@@ -72,6 +79,9 @@ section {
 		h1, h2, h3, h4, h5, p, a:not(.btn), li {
 			color: $dark;
 		}
+		a.card {
+			border: $color_dark 2px solid;
+		}
 	}
 
 	&.darkSection {
@@ -82,6 +92,9 @@ section {
 		h1, h2, h3, h4, h5 , p, a:not(.btn), li {
 			color: $light;
 		}
+		a.card {
+			border: $light 2px solid;
+		}
 	}
 
 	&.lightSection {
@@ -91,6 +104,9 @@ section {
 		background: linear-gradient($color_lighter, $color-light);
 		h1, h2, h3, h4, h5, p, a:not(.btn), li {
 			color: $dark;
+		}
+		a.card {
+			border: $color_dark 2px solid;
 		}
 	}
 
@@ -117,14 +133,13 @@ section {
 }
 
 a.card {
-	border: $light 2px solid;
   -webkit-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
   -o-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
   transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
 
 	&:hover, &:focus {
 		text-decoration: none;
-		border-color: $color;
+		border-color: $color !important;
 	}
 }
 

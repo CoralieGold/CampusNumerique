@@ -1,7 +1,7 @@
 <?php include_once("header.php") ?>
 
 <main class="row">
-	<section class="lightSection col-12">
+	<section class="darkSection col-12">
 		<h1 class="col-12">Ceci est une question de la page assistance ?</h1>
 		<div class="col-12 text-center">
 			<img src="http://fakeimg.pl/350x150/?text=Illustration" class="col-6">

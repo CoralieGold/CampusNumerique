@@ -83,7 +83,7 @@
 		</div>
 	</section>
 
-	<section class="lightSection col-12 container">
+	<section class="whiteSection col-12 container">
 		<h1 class="col-12 center-elements">Réalisations</h1>
 		<div class="row justify-content-md-center">
 			<div class="btn-group" role="group" aria-label="FilterListButtons">
