@@ -523,7 +523,7 @@ a.card {
   backface-visibility: hidden; }
 
 .btn-custom {
-  color: #212121;
+  color: #FF3300;
   background-color: #f8f9fa;
   border-color: #FF3300;
   -webkit-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
