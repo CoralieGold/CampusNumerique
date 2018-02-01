@@ -5,7 +5,7 @@
 		<h1 class="col-12">Nom du projet</h1>
 		<p class="col-12 text-center">Auteur : Prénom Nom</p>
 		<div class="col-12 text-center">
-			<img src="http://fakeimg.pl/350x150/?text=Illustration" class="col-6">
+			<img src="img/projet1.jpg" class="col-6">
 		</div>
 		<div class="row justify-content-md-center">
 			<div class="col-md-10">

@@ -80,7 +80,7 @@
         margin-top: 90px;
       }
       .mamber-img {
-        width: 120px;
+        width: 160px;
         margin-top: 170px;
         + h3 {
           margin-top: 20px;
@@ -130,6 +130,10 @@
   -webkit-transition: 0.3s cubic-bezier(0.3, 0, 0, 1.3);
   -o-transition: 0.3s cubic-bezier(0.3, 0, 0, 1.3);
   transition: 0.3s cubic-bezier(0.3, 0, 0, 1.3);
+
+  .mamber-img {
+    width: 160px;
+  }
 }
 
 .hover-description .transition {
@@ -208,7 +212,7 @@
         margin-top: 90px;
       }
       .mamber-img {
-        width: 120px;
+        width: 160px;
         margin-top: 170px;
         + h3 {
           margin-top: 20px;

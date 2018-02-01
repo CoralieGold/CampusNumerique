@@ -3,7 +3,7 @@
 	<section class="darkSection col-12">
 		<h1 class="col-12">Nom de l'outil</h1>
 		<div class="col-12 text-center">
-			<img src="http://fakeimg.pl/350x150/?text=Illustration" class="col-6">
+			<img src="img/outil1.png" class="col-6">
 		</div>
 		<div class="row justify-content-md-center">
 			<div class="col-md-10">

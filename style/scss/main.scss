@@ -19,6 +19,10 @@ $color_darker: #0087AB;
 	font-family: "Colab", sans-serif !important;
 }
 
+img {
+	object-fit: cover;
+}
+
 html {
 	font-size: 1rem;
 }
@@ -129,6 +133,14 @@ section {
 
 	.card-footer {
 		text-align: center;
+	}
+
+	.card-img-top {
+		height: 80px;
+
+		&.big-img {
+			height: 160px;
+		}
 	}
 }
 

@@ -6,19 +6,19 @@
 				<div class="row justify-content-around">
 					<div class="col-md-3 center-element">
 						<a href="pole.php">
-							<img class="rounded-circle" src="http://fakeimg.pl/100x100/" alt="Generic placeholder image">
+							<img class="rounded-circle" src="img/pole_innovation.png" alt="Generic placeholder image">
 							<h2>Cellule Innovation Pédagogique de la VPEP</h2>
 						</a>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-md-3 center-element">
 						<a href="pole.php">
-							<img class="rounded-circle" src="http://fakeimg.pl/100x100/" alt="Generic placeholder image">
+							<img class="rounded-circle" src="img/pole_audiovisuel.png" alt="Generic placeholder image">
 							<h2>Pôle Audiovisuel du Campus Numérique</h2>
 						</a>
 					</div><!-- /.col-lg-4 -->
 					<div class="col-md-3 center-element">
 						<a href="pole.php">
-							<img class="rounded-circle" src="http://fakeimg.pl/100x100/" alt="Generic placeholder image">
+							<img class="rounded-circle" src="img/pole_tic.png" alt="Generic placeholder image">
 							<h2>Pôle TIC du Campus Numérique</h2>
 						</a>
 					</div><!-- /.col-lg-4 -->
@@ -52,7 +52,7 @@
 					<h2>L'équipe de direction</h2>	    		    		
 					<ul class="hover-description row justify-content-md-center">
 						<li class="transition col-xs-12 col-md-3">
-							<div class="wrapper"> <img class="transition rounded-circle" src="http://fakeimg.pl/100x100/">
+							<div class="wrapper"> <img class="mamber-img transition rounded-circle" src="img/feriel-goulamhoussen-hover.jpg">
 								<ul class="social">
 									<li class="transition">Rôle dans le Campus Numérique</li>
 									<li class="transition"><i class="fa fa-phone" aria-hidden="true"></i> 01 23 45 67 89</li>
@@ -60,14 +60,14 @@
 								</ul>
 								<span class="transition">
 									<h3>Prénom Nom <em>Direction</em></h3>
-									<img class="mamber-img rounded-circle" src="http://fakeimg.pl/100x100/">
+									<img class="mamber-img rounded-circle" src="img/feriel-goulamhoussen-on.jpg">
 									<h3>Prénom Nom</h3>
 									<i class="fa fa-angle-double-down fa-2x" aria-hidden="true"></i>
 								</span>
 							</div>
 						</li>
 						<li class="transition col-xs-12 col-md-3">
-							<div class="wrapper"> <img class="transition rounded-circle" src="http://fakeimg.pl/100x100/">
+							<div class="wrapper"> <img class="mamber-img transition rounded-circle" src="img/mpersico-hover.jpg">
 								<ul class="social">
 									<li class="transition">Rôle dans le Campus Numérique</li>
 									<li class="transition"><i class="fa fa-phone" aria-hidden="true"></i> 01 23 45 67 89</li>
@@ -75,14 +75,14 @@
 								</ul>
 								<span class="transition">
 									<h3>Prénom Nom <em>Direction</em></h3>
-									<img class="mamber-img rounded-circle" src="http://fakeimg.pl/100x100/">
+									<img class="mamber-img rounded-circle" src="img/mpersico-on.jpg">
 									<h3>Prénom Nom</h3>
 									<i class="fa fa-angle-double-down fa-2x" aria-hidden="true"></i>
 								</span>
 							</div>
 						</li>
 						<li class="transition col-xs-12 col-md-3">
-							<div class="wrapper"> <img class="transition rounded-circle" src="http://fakeimg.pl/100x100/">
+							<div class="wrapper"> <img class="mamber-img transition rounded-circle" src="img/melina-guerini-hover.jpg">
 								<ul class="social">
 									<li class="transition">Rôle dans le Campus Numérique</li>
 									<li class="transition"><i class="fa fa-phone" aria-hidden="true"></i> 01 23 45 67 89</li>
@@ -90,7 +90,7 @@
 								</ul>
 								<span class="transition">
 									<h3>Prénom Nom <em>Direction</em></h3>
-									<img class="mamber-img rounded-circle" src="http://fakeimg.pl/100x100/">
+									<img class="mamber-img rounded-circle" src="img/melina-guerini-on.jpg">
 									<h3>Prénom Nom</h3>
 									<i class="fa fa-angle-double-down fa-2x" aria-hidden="true"></i>
 								</span>

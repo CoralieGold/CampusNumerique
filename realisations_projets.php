@@ -21,7 +21,7 @@
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
 						</div>
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=projet_image" alt="Card image cap">
+						<img class="card-img-top big-img" src="img/projet1.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom du Projet</h3>
 							<p class="text-center">Auteur : Prénom Nom</p>
@@ -37,7 +37,7 @@
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
 						</div>
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=projet_image" alt="Card image cap">
+						<img class="card-img-top big-img" src="img/projet2.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom du Projet</h3>
 							<p class="text-center">Auteur : Prénom Nom</p>
@@ -53,7 +53,7 @@
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
 						</div>
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=projet_image" alt="Card image cap">
+						<img class="card-img-top big-img" src="img/projet3.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom du Projet</h3>
 							<p class="text-center">Auteur : Prénom Nom</p>
@@ -68,7 +68,7 @@
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
 						</div>
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=projet_image" alt="Card image cap">
+						<img class="card-img-top big-img" src="img/projet4.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom du Projet</h3>
 							<p class="text-center">Auteur : Prénom Nom</p>
@@ -102,7 +102,7 @@
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
 						</div>
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=realisation_image" alt="Card image cap">
+						<img class="card-img-top big-img" src="img/realisation1.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom de la Réalisation</h3>
 							<p class="text-center">Auteur : Prénom Nom</p>
@@ -118,7 +118,7 @@
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
 						</div>
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=realisation_image" alt="Card image cap">
+						<img class="card-img-top big-img" src="img/realisation2.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom de la Réalisation</h3>
 							<p class="text-center">Auteur : Prénom Nom</p>
@@ -134,7 +134,7 @@
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
 						</div>
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=realisation_image" alt="Card image cap">
+						<img class="card-img-top big-img" src="img/realisation3.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom de la Réalisation</h3>
 							<p class="text-center">Auteur : Prénom Nom</p>
@@ -149,7 +149,7 @@
 						<div class="card-header background-fa-color">
 						  O1/O1/2000
 						</div>
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=realisation_image" alt="Card image cap">
+						<img class="card-img-top big-img" src="img/realisation4.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom de la Réalisation</h3>
 							<p class="text-center">Auteur : Prénom Nom</p>

@@ -56,7 +56,7 @@
 		<div class="row">
 			<div class="column col-xs-12 col-lg-7">
 				<div class="card bg-dark text-white mainCard">
-					<img class="card-img" src="http://fakeimg.pl/400x150/" alt="Card image">
+					<img class="card-img" src="img/news1.jpg" alt="Card image">
 					<div class="card-img-overlay container">
 						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
@@ -71,7 +71,7 @@
 			</div>
 			<div class="column col-xs-12 col-lg-5">
 				<div class="card bg-dark text-white secondCard">
-					<img class="card-img" src="http://fakeimg.pl/400x150/" alt="Card image">
+					<img class="card-img" src="img/news2.jpg" alt="Card image">
 					<div class="card-img-overlay container">
 						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>
@@ -84,7 +84,7 @@
 					</div>
 				</div>
 				<div class="card bg-dark text-white secondCard">
-					<img class="card-img" src="http://fakeimg.pl/400x150/" alt="Card image">
+					<img class="card-img" src="img/news3.jpg" alt="Card image">
 					<div class="card-img-overlay container">
 						<h5 class="card-date">01/01/2000</h5>
 						<h5 class="card-title">Titre actualité</h5>

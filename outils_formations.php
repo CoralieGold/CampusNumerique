@@ -19,7 +19,7 @@
 			<div class="card-group col-12">
 				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product pole_tic">
 					<a class="card" href="outil.php">
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
+						<img class="card-img-top" src="img/outil1.png" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom de l'Outil</h3>
 						</div>
@@ -31,7 +31,7 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product pole_audio">
 					<a class="card" href="outil.php">
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
+						<img class="card-img-top" src="img/outil2.png" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom de l'Outil</h3>
 						</div>
@@ -43,7 +43,7 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product pole_ip">
 					<a class="card" href="outil.php">
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
+						<img class="card-img-top" src="img/outil3.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom de l'Outil</h3>
 						</div>
@@ -55,7 +55,7 @@
 
 				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product other">
 					<a class="card" href="outil.php">
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
+						<img class="card-img-top" src="img/outil4.jpg" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom de l'Outil</h3>
 						</div>
@@ -63,7 +63,7 @@
 				</div>
 				<div class="col-lg-3 col-md-4 col-sm-6 filter gallery_product pole_ip">
 					<a class="card" href="outil.php">
-						<img class="card-img-top" src="http://fakeimg.pl/200x50/?text=outil_logo" alt="Card image cap">
+						<img class="card-img-top" src="img/outil6.png" alt="Card image cap">
 						<div class="card-body">
 							<h3>Nom de l'Outil</h3>
 						</div>

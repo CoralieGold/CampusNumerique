@@ -4,9 +4,6 @@
 *:not(i) {
   font-family: "Colab", sans-serif !important; }
 
-img {
-  object-fit: cover; }
-
 html {
   font-size: 1rem; }
 
@@ -93,10 +90,6 @@ section {
     color: #212121 !important; }
   .card .card-footer {
     text-align: center; }
-  .card .card-img-top {
-    height: 80px; }
-    .card .card-img-top.big-img {
-      height: 160px; }
 
 a.card {
   -webkit-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
@@ -162,7 +155,7 @@ a.card {
     margin-top: 20px;
     border-top: 1px solid #f8f9fa; } }
 #headerJumbotron {
-  background: #212121 url("../../img/background-workshop.jpg") no-repeat center center; }
+  background: #212121 url("http://fakeimg.pl/2000x500/") no-repeat center center; }
 
 .transition {
   -webkit-transition: 0.3s cubic-bezier(0.3, 0, 0, 1.3);
@@ -234,7 +227,7 @@ a.card {
         display: inline-block;
         margin-top: 90px; }
       .hover-description > li span .mamber-img {
-        width: 160px;
+        width: 80px !important;
         margin-top: 170px; }
         .hover-description > li span .mamber-img + h3 {
           margin-top: 20px; }
@@ -271,8 +264,6 @@ a.card {
   -webkit-transition: 0.3s cubic-bezier(0.3, 0, 0, 1.3);
   -o-transition: 0.3s cubic-bezier(0.3, 0, 0, 1.3);
   transition: 0.3s cubic-bezier(0.3, 0, 0, 1.3); }
-  .transition .mamber-img {
-    width: 160px; }
 
 .hover-description .transition {
   -webkit-transition: 0.7s cubic-bezier(0.3, 0, 0, 1.3);
@@ -339,7 +330,7 @@ a.card {
         display: inline-block;
         margin-top: 90px; }
       .hover-description > li span .mamber-img {
-        width: 160px;
+        width: 80px !important;
         margin-top: 170px; }
         .hover-description > li span .mamber-img + h3 {
           margin-top: 20px; }
@@ -597,4 +588,4 @@ fieldset[disabled] .btn-custom.active {
   color: #000000;
   background-color: #f8f9fa; }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=main.scss.map */
